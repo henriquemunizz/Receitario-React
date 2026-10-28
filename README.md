@@ -15,7 +15,7 @@ Pendente: URL pública do deploy na Vercel.
 
 ## Catálogo
 
-Print pendente da implementação e verificação da tela.
+![Tela do catálogo do Receitário](catalogo.png)
 
 ## Executar
 
