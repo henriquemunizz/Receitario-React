@@ -2,8 +2,8 @@
 
 Projeto acadêmico do Checkpoint 5 de Frontend da FIAP.
 
-**Aplicação na Vercel:** publicação pendente.
-**Repositório no GitHub:** publicação pendente.
+**Aplicação na Vercel:** https://receitario-react1.vercel.app/
+**Repositório no GitHub:** https://github.com/henriquemunizz/Receitario-React
 
 ![Tela do catálogo do Receitário](catalogo.png)
 
@@ -127,12 +127,10 @@ A resposta da listagem é tipada como `{ recipes, total, skip, limit }`. O tempo
 | Henrique da Silva Muniz | 573874 | 1TDSPv-2026 | [henriquemunizz](https://github.com/henriquemunizz) |
 | Erick Keiji Miyashiro | 568966 | 1TDSPv-2026 | [erickmiyashiro](https://github.com/erickmiyashiro) |
 
-Referência de implementação: código NexStore desenvolvido pelo professor.
-
 ## Links da entrega
 
-- **Repositório público no GitHub:** pendente de criação e publicação pelo grupo.
-- **Aplicação publicada na Vercel:** pendente de deploy; inserir a URL pública após a publicação.
+- **Repositório público no GitHub:** https://github.com/henriquemunizz/Receitario-React
+- **Aplicação publicada na Vercel:** https://receitario-react1.vercel.app/
 
 ## Contato
 
